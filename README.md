@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Riot_Games-red?logo=riotgames&logoColor=white&style=for-the-badge" alt="Steam Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
+<img align="Center" src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
 
 
 <div align="center">
