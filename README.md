@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="Center">
   <img src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
   <a href="https://steamcommunity.com/profiles/76561198099213077">
     <img src="https://img.shields.io/badge/Steam-grey?logo=steam&logoColor=white&style=for-the-badge" alt="Steam Badge"/>
