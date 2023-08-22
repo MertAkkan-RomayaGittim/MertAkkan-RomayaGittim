@@ -11,7 +11,7 @@
   </a>
   <img align="Center" src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
 </div>
-<img align="Center" src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
+
 
 
 <div align="center">
