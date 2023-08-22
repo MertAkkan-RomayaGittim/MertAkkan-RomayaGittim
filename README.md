@@ -9,6 +9,7 @@
   <a href="https://www.leagueofgraphs.com/tr/summoner/tr/LimonSoksunSana">
     <img src="https://img.shields.io/badge/Riot_Games-red?logo=riotgames&logoColor=white&style=for-the-badge" alt="Steam Badge"/>
   </a>
+  <img align="Center" src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
 </div>
 <img align="Center" src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
 
