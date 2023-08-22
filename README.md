@@ -3,7 +3,6 @@
 </div>
 
 <div id="badges" align="Center">
-  <img src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
   <a href="https://steamcommunity.com/profiles/76561198099213077">
     <img src="https://img.shields.io/badge/Steam-grey?logo=steam&logoColor=white&style=for-the-badge" alt="Steam Badge"/>
   </a>
@@ -11,6 +10,7 @@
     <img src="https://img.shields.io/badge/Riot_Games-red?logo=riotgames&logoColor=white&style=for-the-badge" alt="Steam Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=MertAkkan-RomayaGittim&style=flat-square&color=blue" alt=""/>
 
 
 <div align="center">
