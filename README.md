@@ -19,7 +19,7 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MertAkkan-RomayaGittim)](https://github.com/MertAkkan-RomayaGittim/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MertAkkan-RomayaGittim&rank=S,AAA)](https://github.com/MertAkkan-RomayaGittim/github-profile-trophy)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="HTML" width="40" height="40"/>&nbsp;
